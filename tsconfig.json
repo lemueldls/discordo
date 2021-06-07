@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "strict": true,
+
+    "module": "commonjs",
+    "target": "esnext",
+
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true,
+    "removeComments": true,
+
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+
+    "baseUrl": "./",
+    "paths": {
+      "@components": ["components"]
+    }
+  }
+}
