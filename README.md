@@ -1,0 +1,2 @@
+# discordo
+BetterDiscord Plugins
